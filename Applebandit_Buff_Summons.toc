@@ -1,0 +1,10 @@
+## Interface: 11305
+
+## Title: Applebandit Buff Summons
+## Notes: Useful tools for world buff summoning, modified from Consequence-Summons by Zyrrael
+## Author: Applebandit, Zyrrael
+## Version: 2.2
+## SavedVariables: ABsummon1, absummon_hakkar_time, absummon_dire_maul_time, absummon_songflower_time, absummon_dragonslayer_time, absummon_auto_promote, absummon_auto_remove, absummon_mark_summoner
+
+embeds.xml
+Core.lua
